@@ -1,0 +1,30 @@
+.head{
+    width: 1600px;
+    height: 121px;
+    background-color: pink;
+    display: flex;
+}
+.head_text{
+   
+    /* width: 126px;
+    height: 52px;
+    left: 1361px;
+    top: 55px; */
+
+    
+}
+
+.new {
+    display: grid;
+    grid-gap: 11px;
+    text-align: right;
+    align-items: center;
+    grid-auto-rows: 80px;
+    grid-template-columns: repeat(3, 100px);
+    margin-left: 60%;
+}
+
+.new img {
+    width: 18%;
+    margin-right: 5px;
+}
