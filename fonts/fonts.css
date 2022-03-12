@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Revalia"; 
+    src: url("../fonts/Revalia-Regular.ttf") format("truetype"); 
+    font-family: Revalia-Regular;
+    
+   }
+
+   h1 {
+    font-family: Revalia;
+    font-size: 30px;
+   }
